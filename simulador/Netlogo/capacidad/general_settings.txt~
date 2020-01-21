@@ -1,0 +1,23 @@
+1.- Elegir Test (on - fija la semilla random)
+2.- Active Source (on)
+3.- Buffer lenght (1)
+4.- Number of sources (1)
+5.- Wireless Effects (off para solo medir perdidas por congestion)
+6.- Packet Generator (continuous para hacer mediciones ideales)
+7.- Energia por transmision (0 para pruebas donde la topologia no cambia)
+8.- Control congestion (on/off)
+
+ESCENARIOS A MEDIR
+
+//Tener control de congestion
+a.- sin-control
+b.- con-control
+//Tener wireless
+c.- sin-control con-wireless
+d.- con-control con wireless
+//Tener multi-frecuencia
+e.- sin-control con-wireless-con-multi-frecuencia
+f.- con-control con wireless-con-multi-frecuencia
+//Tener csma
+g.- sin-control con-wireless-con-csma
+h.- con-control con wireless-con-csma

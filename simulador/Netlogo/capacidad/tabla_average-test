@@ -1,0 +1,7 @@
+"BehaviorSpace results (NetLogo 5.0.2)"
+"wsn_simulacion.nlogo"
+"sweeping sources and buffer"
+"07/15/2013 12:15:37:453 +0200"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-17","17","-16","16"
+"[run number]","buffer-length","number-of-sources","[step]","ticks","packets-sent-total","total-received-packets","total-congestion-losses","total-goodput","total-goodput-losses"
